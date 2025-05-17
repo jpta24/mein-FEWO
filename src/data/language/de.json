@@ -1,0 +1,17 @@
+{
+	"navbar": {
+		"home": "Startseite",
+		"howItWorks": "So funktioniert's",
+		"plans": "Pläne & Preise",
+		"examples": "Beispiele",
+		"reviews": "Bewertungen",
+		"contact": "Kontakt"
+	},
+	"hero": {
+		"slogan": "Wir erstellen Ihre Website für Ferienwohnungen",
+		"cta": "Kostenlose Vorschau anfordern"
+	},
+
+	"currentLanguage": "Aktuelle Sprache",
+	"title": "Wir erstellen deine Ferienwohnung-Webseite"
+}

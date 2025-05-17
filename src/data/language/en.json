@@ -1,0 +1,17 @@
+{
+	"navbar": {
+		"home": "Home",
+		"howItWorks": "How it works",
+		"plans": "Plans & Pricing",
+		"examples": "Examples",
+		"reviews": "Reviews",
+		"contact": "Contact"
+	},
+	"hero": {
+		"slogan": "We build your Ferienwohnung website",
+		"cta": "Get a free preview"
+	},
+
+	"currentLanguage": "Current language",
+	"title": "We create your Ferienwohnung website"
+}
