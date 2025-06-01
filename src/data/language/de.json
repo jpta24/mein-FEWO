@@ -1,11 +1,12 @@
 {
-	"navbar": {
+	"nav": {
 		"home": "Startseite",
-		"howItWorks": "So funktioniert's",
-		"plans": "Pläne & Preise",
+		"how": "Wie es funktioniert",
+		"plans": "Preise",
 		"examples": "Beispiele",
 		"reviews": "Bewertungen",
-		"contact": "Kontakt"
+		"contact": "Kontakt",
+		"preview": "Kostenlose Vorschau"
 	},
 	"hero": {
 		"slogan": "Wir erstellen Ihre Website für Ferienwohnungen",

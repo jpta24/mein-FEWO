@@ -1,11 +1,12 @@
 {
-	"navbar": {
+	"nav": {
 		"home": "Home",
-		"howItWorks": "How it works",
-		"plans": "Plans & Pricing",
+		"how": "How it works",
+		"plans": "Plans",
 		"examples": "Examples",
 		"reviews": "Reviews",
-		"contact": "Contact"
+		"contact": "Contact",
+		"preview": "Free preview"
 	},
 	"hero": {
 		"slogan": "We build your Ferienwohnung website",

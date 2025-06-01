@@ -1,8 +1,10 @@
 @import 'bootstrap/scss/bootstrap';
-//@import './variables'; // si luego usas variables personalizadas
+@import './variables.scss';
 
 body {
-	font-family: 'Segoe UI', sans-serif;
-	background-color: #f8f9fa;
-	color: #333;
+  background-color: $light-bg;
+  color: $primary;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
 }

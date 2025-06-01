@@ -11,7 +11,7 @@ function HomePage() {
     <div>
       <h1>{t.title}</h1>
       <p>{t.currentLanguage}{language}</p>
-      <button onClick={() => setLanguage('en')}>EN</button>
+      <button onClick={() => setLanguage('en')}>ENglis</button>
       <button onClick={() => setLanguage('de')}>DE</button>
     </div>
   );
